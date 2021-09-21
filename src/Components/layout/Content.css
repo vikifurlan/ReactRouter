@@ -1,6 +1,9 @@
 .Content {
   display:flex;
   flex-grow: 1;
-  background-color: #ddd;
+  background-color: rgb(255, 133, 133);
   padding: 30px;
+  font-family:"roboto";
+  font-weight: 200;
+  font-style: italic;
 }

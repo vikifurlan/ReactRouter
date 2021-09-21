@@ -2,7 +2,8 @@
   display: flex;
   flex-basis: 250px;
 
-  background-color: #1e90ff;
+  background-color: #5b6167;
+  font-family: "roboto";
 }
 .menu nav {
   flex-grow: 1;

@@ -5,12 +5,16 @@ import Content from "../Components/layout/Content"
 import {BrowserRouter as Router} from "react-router-dom"
 
 
+
+
 const App = props => (
   <div className="App">
     <Router>
     <Menu />
     <Content />
+    
     </Router>
+    
     
 
     

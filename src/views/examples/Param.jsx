@@ -1,17 +1,21 @@
 import React from "react"
 
-import {useParams} from "react-router-dom"
+
 
 
 
 const Param = props => {
-  const { id } = useParams()
+
 
 return (
   <div className="Param" >
-  <h1>Param</h1>
-<h2>Valor: {id}!</h2>
+  <h1>Trabalhe conosco</h1>
+<h2>Somos uma equipe de profissionais altamente qualificados, que tem como missão oferecer o melhor atendimento ao nosso cliente.
+
+Se você ama cosméticos e é apaixonado pelo mercado de varejo, venha fazer parte do nosso time!</h2>
+
 </div>
+
 )
 }
 

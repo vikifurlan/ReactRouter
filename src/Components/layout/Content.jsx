@@ -7,6 +7,7 @@ import Param from "../../views/examples/Param"
 import NotFound from "../../views/examples/NotFound"
 
 
+
 const Content = props => (
   <main className="Content">
     <Switch>
@@ -25,6 +26,9 @@ const Content = props => (
 
         <NotFound/>
         </Route>
+
+
+
     </Switch>
   </main>
 
