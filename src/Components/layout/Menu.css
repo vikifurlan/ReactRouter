@@ -4,9 +4,11 @@
 
   background-color: #5b6167;
   font-family: "roboto";
+  
 }
 .menu nav {
   flex-grow: 1;
+  
 }
 
 .menu ul {
@@ -22,6 +24,7 @@
   flex: 1;
   padding: 10px;
   margin-bottom: 10px;
+  width: 250px;
 
   text-decoration: none;
   color: #fff;
